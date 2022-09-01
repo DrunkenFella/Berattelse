@@ -1,0 +1,15 @@
+C:\Users\alex.ostlund\null\Berättelse\null\Berattelse\Berattelse\bin\Debug\net6.0\Berattelse.exe
+C:\Users\alex.ostlund\null\Berättelse\null\Berattelse\Berattelse\bin\Debug\net6.0\Berattelse.deps.json
+C:\Users\alex.ostlund\null\Berättelse\null\Berattelse\Berattelse\bin\Debug\net6.0\Berattelse.runtimeconfig.json
+C:\Users\alex.ostlund\null\Berättelse\null\Berattelse\Berattelse\bin\Debug\net6.0\Berattelse.dll
+C:\Users\alex.ostlund\null\Berättelse\null\Berattelse\Berattelse\bin\Debug\net6.0\Berattelse.pdb
+C:\Users\alex.ostlund\null\Berättelse\null\Berattelse\Berattelse\obj\Debug\net6.0\Berattelse.csproj.AssemblyReference.cache
+C:\Users\alex.ostlund\null\Berättelse\null\Berattelse\Berattelse\obj\Debug\net6.0\Berattelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.ostlund\null\Berättelse\null\Berattelse\Berattelse\obj\Debug\net6.0\Berattelse.AssemblyInfoInputs.cache
+C:\Users\alex.ostlund\null\Berättelse\null\Berattelse\Berattelse\obj\Debug\net6.0\Berattelse.AssemblyInfo.cs
+C:\Users\alex.ostlund\null\Berättelse\null\Berattelse\Berattelse\obj\Debug\net6.0\Berattelse.csproj.CoreCompileInputs.cache
+C:\Users\alex.ostlund\null\Berättelse\null\Berattelse\Berattelse\obj\Debug\net6.0\Berattelse.dll
+C:\Users\alex.ostlund\null\Berättelse\null\Berattelse\Berattelse\obj\Debug\net6.0\refint\Berattelse.dll
+C:\Users\alex.ostlund\null\Berättelse\null\Berattelse\Berattelse\obj\Debug\net6.0\Berattelse.pdb
+C:\Users\alex.ostlund\null\Berättelse\null\Berattelse\Berattelse\obj\Debug\net6.0\Berattelse.genruntimeconfig.cache
+C:\Users\alex.ostlund\null\Berättelse\null\Berattelse\Berattelse\obj\Debug\net6.0\ref\Berattelse.dll
