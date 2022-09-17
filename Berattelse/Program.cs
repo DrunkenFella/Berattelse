@@ -34,7 +34,10 @@ if (name == "Erik")
 {
     Console.WriteLine($"Weird man - Aha you are {name} the average Metal enjoyer");
 }
-
+if (name == "William")
+{
+    Console.WriteLine($"Weird man - Aha you are {name} sir stinky fish.");
+}
 Console.WriteLine($"Weird man - {name} do you seek adventure... (a=)Yes or (b=)No?");
 
 string yn = Console.ReadLine().ToLower();
@@ -72,11 +75,37 @@ if (yn == "a")
     }
     if (sworsh == "b")
     {
-
+        Console.WriteLine("You take out the sheild and take cover from the Dragon, the dragon blows a fire ball at you.");
+        Console.ReadLine();
+        Console.WriteLine("The dragon looks out of breath, do you attack (a) or do you hide (b)");
+        string attackorhide = Console.ReadLine().ToLower();
+        if (attackorhide == "a")
+        {
+            Console.WriteLine("You attack the Dragon, you stab it in its eyes and it dies.");
+            Console.ReadLine();
+            Console.WriteLine("You walk back to the Weird man. With the head of Ryan Reynolds.");
+            Console.ReadLine();
+            Console.WriteLine("Weird man - Oh no my dearest Ryan Reynolds what have they done to you.");
+            Console.ReadLine();
+            Console.WriteLine("Weird man - Do you want gold or do you want to see who I'm?");
+            Console.WriteLine("Do you want gold (a) or do you want to see who the Weird mans is.");
+            string goldorsee = Console.ReadLine().ToLower();
+            if (goldorsee == "a")
+            {
+                Console.WriteLine("You accept the gold and walk away, ready for a new adventure.");
+                Close ();
+            }
+            if (goldorsee == "b")
+            {
+                Console.WriteLine("Weird man - If you say so.");
+                Console.WriteLine("The Weird man takes of his robe to revival that he was Leonardo Dicaprio. Then he walks away to find a 20 year old girl.");
+                Close ();
+            } 
+        }
     }
     if (sworsh == "z")
     {
-        Console.WriteLine("You take out a gun that you found and shoot the dragon in his eyes.");
+        Console.WriteLine("You take out a gun that you found in your back pocketand shoot the dragon in his eyes.");
         Console.ReadLine();
         Console.WriteLine("You dig out his heart and walk back to the Weird man.");
         Console.WriteLine("Weird man - Oh thank god that you are alive. I can see that you have the heart, I didn't say that you should proof, but okay. ");
@@ -97,7 +126,7 @@ if (yn == "b")
     
     if (saveorno == "a")
     {
-        Console.WriteLine("You swim out to save her. But you fail becuase you didnt take swiming lessons when you were a kid, so you drown. Game over ending (tal)");
+        Console.WriteLine("You swim out to save her. But you fail becuase you didnt take swiming lessons when you were a kid, so you drown.");
         Close();
     }
     if (saveorno == "b")
@@ -108,17 +137,17 @@ if (yn == "b")
 
         if (money == "a")
         {
-            Console.WriteLine($"{name} you are not so smart, they have knifes and they stab you. Game over ending (tal)");
+            Console.WriteLine($"{name} you are not so smart, they have knifes and they stab you.");
             Close();
         }
         if (money == "b")
         {
-            Console.WriteLine($"{name} you are not smart, they robb you and then stab you.  Game over ending (tal)");
+            Console.WriteLine($"{name} you are not smart, they robb you and then stab you.");
             Close();
         }
         if (money == "z")
         {
-            Console.WriteLine($"You take their knife and stap yourself. Game over ending (tal)");
+            Console.WriteLine($"You take their knife and stap yourself.");
             Close();
         }
     }
